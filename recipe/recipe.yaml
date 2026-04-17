@@ -1,6 +1,6 @@
 context:
   name: csp-adapter-telegram
-  version: "0.1.0"
+  version: "0.2.0"
   python_min: '3.11'
 
 package:
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/c/csp-adapter-telegram/csp_adapter_telegram-${{ version }}.tar.gz
-  sha256: 3315c57bb269e30093a73d45202af8c75b422008a88933c4bdc10b85f2c5d3cf
+  sha256: dd90518326943fb9da6bb244bb0e712bb58d17bf6ce1f11d5257b6dc7130a2a1
 
 build:
   number: 0
